@@ -3,4 +3,4 @@ let divide = function(){
 }
 
 let square = num=>{num*num}
-let square = num=>{num*num}
+let add = (num1,num2)=>{num1+num2}
